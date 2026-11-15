@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+build/
+*.spec
+settings.json
+_demo/
+_scratch_*.py
+.venv/
+venv/
