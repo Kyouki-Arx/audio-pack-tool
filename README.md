@@ -12,7 +12,7 @@ own file, lift it from another pack, or drop back to the built-in default.
 
 ## Download
 
-Grab `dist/TCAudioPackTool.exe` and keep `dist/libwavpack-1.dll` next to it.
+Grab `dist/AudioPackTool.exe` and keep `dist/libwavpack-1.dll` next to it.
 Both are in this repository; no installer, no Python needed.
 
 ![take sounds from another pack](screenshot-copy.png)
